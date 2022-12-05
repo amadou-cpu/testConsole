@@ -10,7 +10,7 @@ namespace testConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("voici mon premier test");
+            Console.WriteLine("voici mon premier test  c#");
             Console.ReadLine();
         }
     }
